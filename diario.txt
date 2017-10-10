@@ -1,0 +1,15 @@
+20171010
+repaso operaciones git 
+configuracion inicial
+git config --global user.name tsvetos
+git config -- global user.email
+
+clonacion
+git clone https://github.com/tsvetos/ed.git
+
+nueva version
+git add diario.txt (marca el fichero diario.txt)
+git commit -m "Resumen de la nueva version" (incluye los marcados)
+
+publicacion
+git push
