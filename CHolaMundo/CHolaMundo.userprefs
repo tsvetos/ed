@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="CHolaMundo/CHolaMundo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CGtk/CGtk/MainWindow.cs">
+    <Files>
+      <File FileName="../CGtk/CGtk/Program.cs" Line="11" Column="9" />
+      <File FileName="../CGtk/CGtk/MainWindow.cs" Line="25" Column="1" />
+      <File FileName="CHolaMundo/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CGtk" expanded="True">
+            <Node name="CGtk" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="CHolaMundo" expanded="True">
+            <Node name="CHolaMundo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

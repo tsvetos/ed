@@ -1,0 +1,5 @@
+/home/tsvtsv/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tsvtsv/ed/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.exe.mdb
+/home/tsvtsv/ed/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.exe
+/home/tsvtsv/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.exe
+/home/tsvtsv/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.exe.mdb

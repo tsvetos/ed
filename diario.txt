@@ -13,3 +13,8 @@ git commit -m "Resumen de la nueva version" (incluye los marcados)
 
 publicacion
 git push
+
+2017/11/21
+instalacion monodevelop
+sudo apt update
+sudo apt install monodevelop

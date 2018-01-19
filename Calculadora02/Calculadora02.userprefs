@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Calculadora02/Calculadora02.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora02/MainWindow.cs">
+    <Files>
+      <File FileName="Calculadora02/MainWindow.cs" Line="20" Column="19" />
+      <File FileName="Calculadora02/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/home/tsvtsv/ed/Calculadora02/Calculadora02/MainWindow.cs" line="94" column="33" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
